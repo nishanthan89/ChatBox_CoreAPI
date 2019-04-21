@@ -1,0 +1,14 @@
+D:\Project\ChatBox\ChatBox\bin\Debug\netcoreapp2.1\ChatBox.deps.json
+D:\Project\ChatBox\ChatBox\bin\Debug\netcoreapp2.1\ChatBox.runtimeconfig.json
+D:\Project\ChatBox\ChatBox\bin\Debug\netcoreapp2.1\ChatBox.runtimeconfig.dev.json
+D:\Project\ChatBox\ChatBox\bin\Debug\netcoreapp2.1\ChatBox.dll
+D:\Project\ChatBox\ChatBox\bin\Debug\netcoreapp2.1\ChatBox.pdb
+D:\Project\ChatBox\ChatBox\obj\Debug\netcoreapp2.1\ChatBox.csproj.CoreCompileInputs.cache
+D:\Project\ChatBox\ChatBox\obj\Debug\netcoreapp2.1\ChatBox.RazorAssemblyInfo.cache
+D:\Project\ChatBox\ChatBox\obj\Debug\netcoreapp2.1\ChatBox.RazorAssemblyInfo.cs
+D:\Project\ChatBox\ChatBox\obj\Debug\netcoreapp2.1\ChatBox.AssemblyInfoInputs.cache
+D:\Project\ChatBox\ChatBox\obj\Debug\netcoreapp2.1\ChatBox.AssemblyInfo.cs
+D:\Project\ChatBox\ChatBox\obj\Debug\netcoreapp2.1\ChatBox.RazorTargetAssemblyInfo.cache
+D:\Project\ChatBox\ChatBox\obj\Debug\netcoreapp2.1\ChatBox.dll
+D:\Project\ChatBox\ChatBox\obj\Debug\netcoreapp2.1\ChatBox.pdb
+D:\Project\ChatBox\ChatBox\obj\Debug\netcoreapp2.1\ChatBox.csprojAssemblyReference.cache
